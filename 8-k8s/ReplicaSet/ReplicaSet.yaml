@@ -22,4 +22,4 @@ spec:
     spec:
       containers:
         - name: httpd
-          image: varunmanik/httpd:alpine
+          image: mohitsoniv/redis:latest
